@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-AI+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TRAE Free Installer** — TRAE is an AI-integrated development environment from ByteDance that provides AI-powered code completion, chat, and generation capabilities. Works without internet access, no account required. Full offline installation.
+**💻 TRAE Free Installer** — TRAE is an AI-powered IDE that combines code editing with AI assistance for writing, explaining, and debugging code. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TRAE
 
-TRAE is an AI-integrated development environment from ByteDance that provides AI-powered code completion, chat, and generation capabilities. It competes with Cursor as an AI-native coding environment with support for multiple programming languages.
+TRAE is an AI-powered IDE that combines code editing with AI assistance for writing, explaining, and debugging code. Featuring real-time AI suggestions, natural language code generation, and an intelligent chat interface for asking questions about your codebase, TRAE aims to streamline the development workflow for developers of all experience levels.
 
 ---
 
 ## ❌ Problem: TRAE is hard to access
 
-- **New Product** — Early stage; ecosystem and reliability still developing
-- **ByteDance Ownership** — Some users have concerns about data privacy with ByteDance products
-- **AI Feature Costs** — Best AI models may require subscription or credits
-- **Competition** — Cursor and GitHub Copilot have larger user bases and more mature features
+- **AI Dependency** — Core value proposition requires internet for AI features
+- **Commercial Pricing** — AI capabilities tied to usage-based pricing model
+- **Extension Ecosystem** — Newer product with smaller extension library
+- **Privacy** — Code context sent to AI servers for processing
 
 ---
 
@@ -121,7 +121,7 @@ TRAE is an AI-integrated development environment from ByteDance that provides AI
 
 ---
 
-**TRAE Free Installer** — TRAE is an AI-integrated development environment from ByteDance that provides AI-powered code completion, chat, and generation capabilities. Install without internet connection today!
+**TRAE Free Installer** — TRAE is an AI-powered IDE that combines code editing with AI assistance for writing, explaining, and debugging code. Install without internet connection today!
 
 <div align="center">
 
